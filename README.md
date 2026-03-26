@@ -53,7 +53,6 @@ Create a `.env` file in the root directory:
 
 ```
 DATABASE_URL=postgresql://username:password@localhost:5432/dbname
-DEEPSEEK_API_KEY=your_api_key
 OLLAMA_URL=https://ollama.com
 OLLAMA_API_KEY=your_api_key
 OLLAMA_MODEL=your_ollama_cloud_model
